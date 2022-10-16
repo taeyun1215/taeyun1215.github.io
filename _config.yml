@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 기록하는 습관                            # the main title
+title: 기록하는 자세                           # the main title
 
 tagline: Back-end developer   # it will display as the sub-title
 
